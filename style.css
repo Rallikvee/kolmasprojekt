@@ -1,0 +1,20 @@
+h1{
+    color:chartreuse
+
+}
+html{
+    background-color: darkorchid;
+    max-width: 50em;
+    margin: 0 auto;
+}
+.special{
+    text-decoration: underline;
+}
+.lahesona{
+    text-transform: uppercase;
+    color: rgb(179, 95, 95);
+}
+#viimane{
+    text-transform: uppercase;
+    color: cyan;
+}
